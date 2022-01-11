@@ -1,4 +1,5 @@
 #!/bin/bash
+#SPDX-License-Identifier: GPL-2.0-or-later
 # +++++++++++++++++++++++++++++++++
 # ++++++Project_1101++++++++++++++++
 #   Author: IC1101
